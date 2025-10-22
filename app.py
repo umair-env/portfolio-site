@@ -22,7 +22,7 @@ app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your-secret-key-here')
 # Email configuration (you can use environment variables)
 SMTP_SERVER = os.environ.get('SMTP_SERVER', 'smtp.gmail.com')
 SMTP_PORT = int(os.environ.get('SMTP_PORT', '587'))
-EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS', 'your-email@gmail.com')
+EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS', 'umairkhan786ukz786@gmail.com')
 EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD', 'your-app-password')
 
 class ContactFormHandler:

@@ -332,12 +332,12 @@ function initTypingAnimation() {
             if (i < text.length) {
                 heroTitle.textContent += text.charAt(i);
                 i++;
-                setTimeout(typeWriter, 100);
+                setTimeout(typeWriter, 70);
             }
         };
         
         // Start typing animation after a delay
-        setTimeout(typeWriter, 1000);
+        setTimeout(typeWriter, 100);
     }
 }
 
