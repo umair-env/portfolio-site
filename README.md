@@ -177,8 +177,10 @@ This project is open source and available under the [MIT License](LICENSE).
 If you have any questions or need help customizing this portfolio:
 - Create an issue on GitHub
 - Contact me through the portfolio contact form
-- Email: umair@example.com
+- Email: umairkhan786ukz786@gmail.com
 
 ---
 
 **Built with ❤️ by Umair Khan**
+<br>
+**Built using 🧠 obviously**
